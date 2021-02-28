@@ -3,7 +3,7 @@
 I'm a student and full-stack developer. I am 16 years old and I am in the second year of high school. 
 </br>
 - 🔭 I'm currently working on a really cool app to help people in my city. Let's say it's a copy of Uber.
-- 🌱 I am currently learning React.js, Next.js, Typescript and MongoDB
+- 🌱 I am currently learning React.js, Next.js, Typescript, Node.js and MongoDB
 - 🤝 I am looking for new opportunities for learning and helping new people.
 </br>
 </br>
