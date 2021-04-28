@@ -35,8 +35,6 @@ I'm a student and full-stack developer. I am 16 years old and I am in the second
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<img alt="npm" src="https://camo.githubusercontent.com/1e50ab8……3d666c6…" data-canonical-src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" style="max-width:100%;">
-<img alt="yarn" src="https://camo.githubusercontent.com/86b66fa……666c617…" data-canonical-src="https://img.shields.io/badge/-Yarn-289bed?style=flat-square&logo=yarn&logoColor=white" style="max-width:100%;">
 </p></br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adryellireiz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adryellireiz" /></p>
@@ -47,8 +45,8 @@ I'm a student and full-stack developer. I am 16 years old and I am in the second
 </br>
 
 <h3 align="left">Connect with me:</h3></br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adryelli-reis-3505601ab/)](https://www.linkedin.com/in/adryelli-reis-3505601ab/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdryelliReiz)](https://twitter.com/AdryelliReiz)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AdryelliReiz)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/adryellireiz/)
 </br>
 <p>You can send me a Hi through my Discord! <code>! ADRY#3319</code></p></nr>
 <p>And that's it. Goodbye!</p>
