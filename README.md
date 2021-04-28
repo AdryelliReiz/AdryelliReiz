@@ -4,7 +4,6 @@
 <p align="center" >「 Front-End Developer (or full-stack sometimes) 」</p></br>
 
 Hey! My name is Adryelli, but you can call me Adry, I am 16 years old. I am a full-stack developer in Brazil. I focus on front-end with React.js and Next.js, back-end with Node.js and Mobile with React Native, all with Typescript.
-I'm a student and full-stack developer. I am 16 years old and I am in the second year of high school. 
 </br>
 - 🔭 I'm currently working on a really cool app to help people in my city. Let's say it's a copy of Uber.
 - 🌱 I am currently learning React.js, Next.js, Typescript, Node.js and MongoDB
