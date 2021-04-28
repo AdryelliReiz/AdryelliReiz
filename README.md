@@ -45,8 +45,8 @@ I'm a student and full-stack developer. I am 16 years old and I am in the second
 </br>
 
 <h3 align="left">Connect with me:</h3></br>
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AdryelliReiz)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/adryellireiz/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />(https://twitter.com/AdryelliReiz)]
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">(https://www.instagram.com/adryellireiz/)]
 </br>
 <p>You can send me a Hi through my Discord! <code>! ADRY#3319</code></p></nr>
 <p>And that's it. Goodbye!</p>
