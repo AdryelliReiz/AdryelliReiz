@@ -3,9 +3,9 @@
 
 <p align="center" >「 Front-End Developer (or full-stack sometimes) 」</p></br>
 
-Hey! My name is Adryelli, but you can call me Adry, I am 16 years old. I am a full-stack developer in Brazil. I focus on front-end with React.js and Next.js, back-end with Node.js and Mobile with React Native, all with Typescript.
+Hey! My name is Adryelli, but you can call me Adry, I am 17 years old. I am a full-stack developer in Brazil. I focus on front-end with React.js and Next.js, back-end with Node.js and Mobile with React Native, all with Typescript.
 </br>
-- 🔭 I'm currently working on a really cool app to help people in my city. Let's say it's a copy of Uber.
+- 🔭 I am currently working on personal projects with some friends.
 - 🌱 I am currently learning React.js, Next.js, Typescript, Node.js and MongoDB
 - 🤝 I am looking for new opportunities for learning and helping new people.
 </br>
@@ -36,11 +36,10 @@ Hey! My name is Adryelli, but you can call me Adry, I am 16 years old. I am a fu
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p></br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adryellireiz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adryellireiz" /></p>
-
-</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adryellireiz&show_icons=true&theme=dracula&locale=en" alt="adryellireiz" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adryellireiz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adryellireiz" /></p>
 </br>
 
 <h3 align="left">Connect with me:</h3></br>
