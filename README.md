@@ -3,7 +3,7 @@
 
 <p align="center" >「 Front-End Developer (or full-stack sometimes) 」</p></br>
 
-Hey! My name is Adryelli, but you can call me Adry, I am 17 years old. I am a full-stack developer in Brazil. I focus on front-end with React.js and Next.js, back-end with Node.js and Mobile with React Native, all with Typescript.
+Hey! My name is Adryelli, but you can call me Adry, I am 17 years old. I am a programming student and a full-stack developer in Brazil. I still don't work in the programming area, but I'm willing to do my best to be able to help anyone. I focus on front-end with React.js and Next.js, back-end with Node.js and Mobile with React Native, all with Typescript.
 </br>
 - 🔭 I am currently working on personal projects with some friends.
 - 🌱 I am currently learning React.js, Next.js, Typescript, Node.js and MongoDB
@@ -39,7 +39,7 @@ Hey! My name is Adryelli, but you can call me Adry, I am 17 years old. I am a fu
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adryellireiz&show_icons=true&theme=dracula&locale=en" alt="adryellireiz" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adryellireiz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adryellireiz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adryellireiz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adryellireiz" /></p></br>
 </br>
 
 <h3 align="left">Connect with me:</h3></br>
