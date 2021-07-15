@@ -1,16 +1,16 @@
 <h1 align="center" > Adryelli Reis</h1>
 </br>
 
-<p align="center" >「 Front-End Developer (or full-stack sometimes) 」</p></br>
+<p align="center" >「 Full-stack Developer 」</p></br>
 
-Hey! My name is Adryelli, but you can call me Adry, I am 17 years old. I am a programming student and a full-stack developer in Brazil. I still don't work in the programming area, but I'm willing to do my best to be able to help anyone. I focus on front-end with React.js and Next.js, back-end with Node.js and Mobile with React Native, all with Typescript.
+Hey! My name is Adryelli, but you can call me Adry, I'm 17 years old. I am a programming student for over 1 year and a junior full-stack developer in Brazil. At the moment, I'm in a team of junior developers, building applications, always following good practices. Today my focus is on web development. React.JS + Next.JS on the frontend, Node.JS (express) on the backend and React Native for mobile devices. Of course with typescript.
+As I'm still in high school, I don't have college, but I plan to go to computer science college. I'm looking for my first job as a programmer. If you want to know about me, there's more below...
 </br>
 - 🔭 I am currently working on personal projects with some friends.
 - 🚀 I am currently learning React.js, Next.js, Typescript, Node.js and TypeORM.
 - 🤝 I am looking for new opportunities for learning and helping new people.
+- 🍃 I'm working hard on my soft skills.
 </br>
-</br>
-
 
 <h3 align="left">Languages and Tools:</h3></br>
 
@@ -43,9 +43,9 @@ Hey! My name is Adryelli, but you can call me Adry, I am 17 years old. I am a pr
 </br>
 
 <h3 align="left">Connect with me:</h3></br>
-<a href="https://twitter.com/AdryelliReiz" >Twitter</a>
-<a href="https://www.instagram.com/adryellireiz/">Intagram</a>
-<a href="https://www.linkedin.com/in/adryelli-reis-3505601ab/" >LinkedIn</a>
+  - Twitter: <a href="https://twitter.com/AdryelliReiz" >AdryelliReiz</a>
+  - Instagram: <a href="https://www.instagram.com/adryellireiz/">@adryellireiz</a>
+  - LinkedIn: <a href="https://www.linkedin.com/in/adryelli-reis-3505601ab/" >Adryelli Reis</a>
 </br>
 <p>You can send me a Hi through my Discord! <code>! ADRY#0002</code></p></br>
 <p>And that's it. Goodbye!</p>
