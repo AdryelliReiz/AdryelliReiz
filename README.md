@@ -4,8 +4,9 @@
 <p align="center" >「 Full-stack Developer 」</p></br>
 
 Hey! My name is Adryelli, but you can call me Adry, I'm 17 years old. I am a programming student for over 1 year and a junior full-stack developer in Brazil. At the moment, I'm in a team of junior developers, building applications, always following good practices. Today my focus is on web development. React.JS + Next.JS on the frontend, Node.JS (express) on the backend and React Native for mobile devices. Of course with typescript.
-As I'm still in high school, I don't have college, but I plan to go to computer science college. I'm looking for my first job as a programmer. If you want to know about me, there's more below...
+As I'm still in high school, I don't have college, but I plan to go to computer science college. I am voluntarily working for <a href="https://github.com/discloud" target="_blank">DisCloud</a> on some closed projects. If you want to know about me, there's more below...
 </br>
+- 🛠 Working for the DisCloud Team.
 - 🔭 I am currently working on personal projects with some friends.
 - 🚀 I am currently learning React.js, Next.js, Typescript, Node.js and Prisma.
 - 🤝 I am looking for new opportunities for learning and helping new people.
@@ -51,6 +52,3 @@ As I'm still in high school, I don't have college, but I plan to go to computer 
 <a href="https://www.instagram.com/adryellireiz/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/> </a>
 <a href="https://twitter.com/AdryelliReiz" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="40" height="40"/> </a>
 
-</br>
-<p>You can send me a Hi through my Discord! <code>! ADRY#0002</code></p></br>
-<p>And that's it. Goodbye!</p>
