@@ -13,9 +13,9 @@ As I'm still in high school, I don't have college, but I plan to go to computer 
 - 🍃 I'm working hard on my soft skills.
 </br>
 
-<div align="center" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adryellireiz&show_icons=true&theme=dracula&locale=en" alt="adryellireiz" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adryellireiz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adryellireiz" />
+<div >
+<img src="https://github-readme-stats.vercel.app/api?username=adryellireiz&show_icons=true&theme=dracula&locale=en" alt="adryellireiz" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adryellireiz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adryellireiz" />
 </div>
 </br>
 
