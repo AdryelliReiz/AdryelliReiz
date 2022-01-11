@@ -3,8 +3,8 @@
 
 <p align="center" >「 Full-stack Developer 」</p></br>
 
-Hey! My name is Adryelli, but you can call me Adry, I'm 17 years old. I am a programming student for over 1 year and a junior full-stack developer in Brazil. At the moment, I'm in a team of junior developers, building applications, always following good practices. Today my focus is on web development. React.JS + Next.JS on the frontend, Node.JS (express) on the backend and React Native for mobile devices. Of course with typescript.
-As I'm still in high school, I don't have college, but I plan to go to computer science college. I am voluntarily working for <a href="https://github.com/discloud" target="_blank">DisCloud</a> on some closed projects. If you want to know about me, there's more below...
+Hey! My name is Adryelli, but you can call me Adry, I'm 17 years old. I am a programming student for over 2 year and a junior full-stack developer in Brazil. At the moment, I am voluntarily working for <a href="https://github.com/discloud" target="_blank">DisCloud</a> on some closed projects. Today my focus is on web development. React.JS + Next.JS on the frontend, Node.JS (express) on the backend and React Native for mobile devices. Of course with typescript.
+As I'm still in high school, I don't have college, but I plan to go to computer science college. If you want to know about me, there's more below...
 </br>
 - 🛠 Working for the DisCloud Team.
 - 🔭 I am currently working on personal projects with some friends.
