@@ -3,14 +3,17 @@
 
 <p align="center" >「 Full-stack Developer 」</p></br>
 
-Hey! My name is Adryelli, but you can call me Adry, I'm 18 years old. I am a programming student for 2 year and a junior full-stack developer in Brazil. At the moment, I am voluntarily working for <a href="https://github.com/discloud" target="_blank">DisCloud</a> on some closed projects. Today my focus is on web development. React.JS + Next.JS on the frontend, Node.JS (express) on the backend and React Native for mobile devices. Of course with typescript.
-As I'm still in high school, I don't have college, but I plan to go to computer science college. If you want to know about me, there's more below...
+Olá, me chamo Adryelli, mas pode me chamar apenas de Adry se preferir, eu tenho 18 anos e moro na zona leste de São Paulo - SP. Estudo programação desde 2020, comecei a aprender o básico de programação por conta própria e com o passar do tempo fui adquirindo experiencia no desenvolvimento web e mobile. No momento minha stack é Javascript, uso diversos frameworks atuais para auxiliar no desenvolvimento de projetos pessoais e de outras equipes as quais ajudo com trabalho voluntário.<br/>
+Parte do meu tempo que utilizo para progredir na minha carreira eu me dirijo a projetos pessoais, busco ajudar colegas da comunidade e estudar novas coisas para me manter atualizada.<br/>
+Atualmente estou estudando Java e procurando novas oportunidades na minha stack atual JS. <br/>
+
+
 </br>
-- 🛠 Working for the DisCloud Team.
-- 🔭 I am currently working on personal projects with some friends.
-- 🚀 I am currently learning React.js, Next.js, Typescript, Node.js and Prisma.
-- 🤝 I am looking for new opportunities for learning and helping new people.
-- 🍃 I'm working hard on my soft skills.
+- 🛠 Contribuindo para DisCloud Team.
+- 🔭 Contruindo alguns projetos com meus amigos.
+- 🚀 Aprendo ainda mais sobre React.js, Next.js, Typescript, Fastify e Prisma.
+- 🤝 Procurando por novas oportunidades.
+- 🍃 Trabalhando nas minhas skills.
 </br>
 
 <div >
@@ -19,7 +22,7 @@ As I'm still in high school, I don't have college, but I plan to go to computer 
 </div>
 </br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 
 <p align="left">
 
@@ -41,14 +44,10 @@ As I'm still in high school, I don't have college, but I plan to go to computer 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://insomnia.rest/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/insomnia.svg" alt="Insomnia" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
 </p></br>
 
-<h3 align="left">Connect with me:</h3></br>
+<h3 align="left">Entre em contato comigo:</h3></br>
 
 <a href="https://discord.com/users/616979994765295723" target="_blank"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/adryelli-reis-3505601ab/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> </a>
-<a href="https://www.instagram.com/adryelli_reis/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/> </a>
-<a href="https://twitter.com/AdryelliDos" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="40" height="40"/> </a>
-
+<a href="https://www.instagram.com/adryelli.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/> </a>
