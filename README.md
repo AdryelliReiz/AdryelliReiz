@@ -8,19 +8,21 @@ Parte do meu tempo que utilizo para progredir na minha carreira eu me dirijo a p
 Atualmente estou estudando Java e procurando novas oportunidades na minha stack atual JS. <br/>
 
 
-</br>
-- 🛠 Contribuindo para DisCloud Team.
-- 🔭 Contruindo alguns projetos com meus amigos.
-- 🚀 Aprendo ainda mais sobre React.js, Next.js, Typescript, Fastify e Prisma.
-- 🤝 Procurando por novas oportunidades.
-- 🍃 Trabalhando nas minhas skills.
-</br>
+<br/>
+<ul>
+<li>🛠 Contribuindo para DisCloud Team.</li>
+<li>🔭 Contruindo alguns projetos com meus amigos.</li>
+<li>🚀 Aprendo ainda mais sobre React.js, Next.js, Typescript, Fastify e Prisma.</li>
+<li>🤝 Procurando por novas oportunidades.</li>
+<li>🍃 Trabalhando nas minhas skills.</li>
+</ul>
+<br/>
 
 <div >
 <img src="https://github-readme-stats.vercel.app/api?username=adryellireiz&show_icons=true&theme=dracula&locale=en" alt="adryellireiz" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adryellireiz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adryellireiz" />
 </div>
-</br>
+<br/>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
