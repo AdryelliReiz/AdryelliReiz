@@ -9,15 +9,6 @@ Parte do meu tempo que utilizo para progredir na minha carreira eu me dirijo a p
 Atualmente estou estudando Java e procurando novas oportunidades na minha stack atual JS. <br/>
 Conheça mais sobre mim abaixo ou pelo <a href="https://adry-portifolio.vercel.app" target="_blank" >Meu Portiflio</a>.
 <br/>
-
-<br/>
-<ul>
-<li>🛠 Contribuindo para DisCloud Team.</li>
-<li>🔭 Contruindo alguns projetos com meus amigos.</li>
-<li>🚀 Aprendo ainda mais sobre React.js, Next.js, Typescript, Fastify e Prisma.</li>
-<li>🤝 Procurando por novas oportunidades.</li>
-<li>🍃 Trabalhando nas minhas skills.</li>
-</ul>
 <br/>
 
 <div>
