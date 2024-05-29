@@ -4,7 +4,7 @@
 <p align="center" >「 Full-stack Developer 」</p>
 <p align="center" >「 USP - EACH | Sistemas de Informação 」</p></br>
 
-Olá, me chamo Adryelli, mas pode me chamar apenas de Adry ou Adryan se preferir, eu tenho 19 anos, moro na zona leste de São Paulo - SP e atualmente faço bacharelado em <strong>Sistemas de Informação na USP</strong>. Estudo programação desde 2020, comecei a aprender o básico de programação por conta própria e com o passar do tempo fui adquirindo experiencia no desenvolvimento web e mobile. No momento minha stack é Javascript, uso diversos frameworks atuais para auxiliar no desenvolvimento de projetos pessoais e de outras equipes as quais ajudo com trabalho voluntário.<br/>
+Olá, me chamo Adryelli, mas pode me chamar apenas de Adry ou Adryan se preferir, eu tenho 20 anos, moro na zona leste de São Paulo - SP e atualmente faço bacharelado em <strong>Sistemas de Informação na USP</strong>. Estudo programação desde 2020, comecei a aprender o básico de programação por conta própria e com o passar do tempo fui adquirindo experiencia no desenvolvimento web e mobile. No momento minha stack é Javascript, uso diversos frameworks atuais para auxiliar no desenvolvimento de projetos pessoais e de outras equipes as quais ajudo com trabalho voluntário.<br/>
 Parte do meu tempo que utilizo para progredir na minha carreira eu me dirijo a projetos pessoais, busco ajudar colegas da comunidade e estudar novas coisas para me manter atualizada.<br/>
 Conheça mais sobre mim abaixo ou pelo <a href="https://adryreisportfolio.vercel.app" target="_blank" >Meu Portfolio</a>.
 <br/>
@@ -44,5 +44,5 @@ Conheça mais sobre mim abaixo ou pelo <a href="https://adryreisportfolio.vercel
 <h3 align="left">Entre em contato comigo:</h3>
 
 <a href="https://discord.com/users/616979994765295723" target="_blank"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="40" height="40"/> </a>
-<a href="https://www.linkedin.com/in/adryelli-reis-3505601ab/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/adryelli-reis-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-3505601ab/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> </a>
 <a href="https://www.instagram.com/adryelli.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/> </a>
