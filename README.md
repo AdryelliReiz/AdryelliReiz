@@ -42,7 +42,7 @@ Atuo como desenvolvedora **Front-end** na **Síntese Jr.**, a empresa júnior do
 
 <p align="left">
 <a href="https://discord.com/users/616979994765295723" target="_blank"><img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/adryelli-reis-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-3505601ab/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/adryelli-reis-3505601ab/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
 <a href="https://www.instagram.com/adryelli.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/></a>
 </p>
 
