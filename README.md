@@ -2,7 +2,7 @@
 
 <p align="center">
   「 Software Engineer | Full Stack Developer 」<br/>
-  「 USP - Sistemas de Informação 」
+  「 USP - Information Systems 」
 </p>
 
 <p align="center">
@@ -16,23 +16,23 @@
 
 ---
 
-### ⚡ Sobre Mim
+### ⚡ About Me
 
-Olá! Sou **Adryelli Reis**, graduanda em **Sistemas de Informação pela USP**. Sou desenvolvedora Full Stack com foco em soluções escaláveis, seguras e de alta performance. Atualmente, busco novas oportunidades para aplicar meu background técnico em ambientes inovadores.
+Hello! I'm **Adryelli Reis**, an **Information Systems student at USP (University of São Paulo)**. I am a Full Stack Developer focused on building scalable, secure, and high-performance solutions. Currently, I am looking for new opportunities to apply my technical background in innovative environments.
 
-No dia a dia, trabalho com:
+On a daily basis, I work with:
 
-- 🛠 **Full Stack Development**: Construção de aplicações modernas utilizando o ecossistema **JavaScript (React, Next.js, Node.js)** e **PHP**.
-- 💳 **Sistemas Críticos & Fintech**: Experiência na implementação de fluxos de **Pix Automático**, sistemas de assinatura digital e arquiteturas CRUD de alta performance com **Django, Redis e Celery**.
-- 🛡 **Segurança & Compliance**: Execução de **Pentests (OWASP Top 10)** e mapeamento de vulnerabilidades para conformidade com normas do Banco Central.
-- 🔬 **Pesquisa & Inovação (IoT)**: Investigação científica voltada para **Internet das Coisas (IoT)**, **Web of Things (WoT)** e interoperabilidade de dados com **Web Semântica**.
-- ⚙️ **Automação**: Redução de overhead manual através de automações com **Google Apps Script** e ferramentas de infraestrutura como **Docker**.
+- 🛠 **Full Stack Development**: Building modern applications using the **JavaScript (React, Next.js, Node.js)** and **PHP** ecosystems.
+- 💳 **Critical Systems & Fintech**: Experience implementing **Automatic Pix** flows (Brazilian instant payments), digital signature systems, and high-performance CRUD architectures using **Django, Redis, and Celery**.
+- 🛡 **Security & Compliance**: Performing **Pentests (OWASP Top 10)** and vulnerability mapping to ensure compliance with Central Bank regulations.
+- 🔬 **Research & Innovation (IoT)**: Scientific research focused on the **Internet of Things (IoT)**, **Web of Things (WoT)**, and data interoperability with the **Semantic Web**.
+- ⚙️ **Automation**: Reducing manual overhead through automations with **Google Apps Script** and infrastructure tools like **Docker**.
 
-**🚀 Disponível para novos desafios (Remoto ou São Paulo/SP).**
+**🚀 Open to new challenges (Remote or São Paulo/SP, Brazil).**
 
 ---
 
-### 🛠 Linguagens e Ferramentas
+### 🛠 Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
@@ -50,7 +50,7 @@ No dia a dia, trabalho com:
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adryellireiz&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" height="150" />
@@ -59,7 +59,7 @@ No dia a dia, trabalho com:
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <p align="left">
 <a href="mailto:adryellireis0santos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
